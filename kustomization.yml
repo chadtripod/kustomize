@@ -6,7 +6,7 @@ namespace: spinnaker
 
 patchesStrategicMerge:
 - initial-config.yml
-- patch-jenkins.yml
+#- patch-jenkins.yml
 #- patch-github.yml
 #- patch-kubernetes-acct.yml
 #- patch-slack.yml
@@ -17,3 +17,4 @@ patchesStrategicMerge:
 #- patch-policy-engine.yml
 
 #new comment
+#today is a great day!
